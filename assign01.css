@@ -353,6 +353,14 @@ footer{
     text-align: left;
     margin: 20px;
 }
+}
+input::placeholder{
+    position: absolute;
+    top: 20px;
+    left: 32px;
+    
+
+}
 .b1{
     width: 497px;
     height: 70px;
